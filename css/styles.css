@@ -1,0 +1,156 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: var(--light);
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+.making-section {
+  background: rgba(17, 17, 17, 0.7);
+}
+.button-making {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 100px;
+  width: 144px;
+  height: 45px;
+  background: #fd9222;
+}
+.button-making:hover {
+  background: #fcf1e0;
+  font-weight: 600;
+  font-size: 14px;
+  color: #fd9222;
+}
+
+.making-links {
+  border: 1px solid #fff;
+  border-radius: 100px;
+  width: 183px;
+  height: 45px;
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+}
+.making-link:hover {
+  border: 1px solid #fd9222;
+  border-radius: 100px;
+  width: 159px;
+  height: 41px;
+  font-weight: 600;
+  font-size: 14px;
+  color: #fd9222;
+}
+.nav-links-making {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: 0.03em;
+  color: #fff;
+}
+.nav-links-making:hover {
+  border-radius: 100px;
+
+  width: 165px;
+  height: 41px;
+  background: #fd9222;
+}
+
+.title-making-section {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: 0.03em;
+  color: #fff;
+}
+.page-header {
+}
+.pege-nav {
+}
+.logo-link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: 0.03em;
+  color: #111;
+  text-transform: uppercase;
+}
+.logo-link:hover,
+.logo-link:focus {
+  color: #fd9222;
+}
+
+.logo-link: img {
+  width: 24;
+  height: 24;
+}
+
+.info-section {
+  width: 1136px;
+  height: 858px;
+}
+.ingredients {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
+}
+.acsent-span {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fd9222;
+}
+.nav-list {
+}
+.nav-list-items {
+}
+.nav-links {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #111;
+}
+.section-benefits {
+  width: 1200px;
+  height: 266px;
+  background: #1e1823;
+}
+.title-benefits {
+}
+.link-benefits {
+}
+.item-benefits {
+}
+.item-title-benefits {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.22;
+  color: #fff;
+}
+.item-text-benefits {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: 0.02em;
+  color: rgba(255, 255, 255, 0.7);
+}
